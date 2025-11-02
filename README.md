@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://i.imgur.com/yourbanner.gif" alt="Sudoku Solver Banner">
-</p>
-
 # 🧩 Sudoku Solver — Console + File Input
 
 A fully functional **Sudoku Solver** built in **Java** using **Backtracking**.  
@@ -50,6 +46,19 @@ either entered **manually through the console** or **uploaded via a text file**.
 
 3. Run the program and choose the file input option.
 4. Enter the file path when prompted.
+
+---
+## Check it out
+### Demo
+
+Manual Input:
+![Manual Input](assets/images/manual_input.png)
+
+File Input:
+![File Input](assets/images/file_input.png)
+
+Solved Sudoku:
+![Solved Sudoku](assets/images/solved.png)
 
 ---
 
