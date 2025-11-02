@@ -49,16 +49,7 @@ either entered **manually through the console** or **uploaded via a text file**.
 
 ---
 ## Check it out
-### Demo
-
-Manual Input:
-![Manual Input](assets/images/manual_input.png)
-
-File Input:
-![File Input](assets/images/file_input.png)
-
-Solved Sudoku:
-![Solved Sudoku](assets/images/solved.png)
+### Demo at sudoku-solver/assests/images
 
 ---
 
