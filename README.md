@@ -10,9 +10,11 @@ either entered **manually through the console** or **uploaded via a text file**.
 
 ---
 ## Technology Used
-![Java](https://img.shields.io/badge/Language-Java-blue)
-![Contributions welcome](https://img.shields.io/badge/Contributions-Welcome-brightgreen)
-![License](https://img.shields.io/badge/License-MIT-yellow)
+💻 `Java` 🔢 `Sudoku Solver` 🧩 `Backtracking` 🔄 `Recursion` 📝 `Console Application`  
+📂 `File I/O` 👤 `User Input` ⚙️ `Algorithm` 🗂 `Data Structures` 🎯 `Problem Solving`  
+✨ `Open Source` 🏆 `Coding Challenge` 📚 `Programming Exercise` 🛠 `Portfolio Project`  
+🚀 `Beginner Friendly` 🔥 `Algorithm Practice` 💡 `Coding Project` 🌟 `Java Projects`
+
 
 ---
 
