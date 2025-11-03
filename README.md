@@ -20,6 +20,7 @@ either entered **manually through the console** or **uploaded via a text file**.
 - 🧠 Efficient safety checks for row, column, and 3×3 subgrid.  
 - 📜 Prints the completed Sudoku grid neatly in the console.  
 - 🔒 Author permission required before forking or redistribution.
+- 🔮React UI for users to interact easily(Future upgrade)
 
 ---
 
@@ -34,15 +35,15 @@ either entered **manually through the console** or **uploaded via a text file**.
 ### 📁 Option 2: File Input
 1. Create a text file (e.g., `sudoku.txt`) containing the Sudoku grid.  
    Example:
-0 0 8 0 0 0 0 0 0
-4 9 0 1 5 7 0 0 2
-0 0 3 0 0 4 1 9 0
-1 8 5 0 6 0 0 2 0
-0 0 0 0 2 0 0 6 0
-9 6 0 4 0 5 3 0 0
-0 3 0 0 7 2 0 0 4
-0 4 9 0 3 0 0 5 7
-8 2 7 0 0 9 0 1 3
+- 0 0 8 0 0 0 0 0 0
+- 4 9 0 1 5 7 0 0 2
+- 0 0 3 0 0 4 1 9 0
+- 1 8 5 0 6 0 0 2 0
+- 0 0 0 0 2 0 0 6 0
+- 9 6 0 4 0 5 3 0 0
+- 0 3 0 0 7 2 0 0 4
+- 0 4 9 0 3 0 0 5 7
+- 8 2 7 0 0 9 0 1 3
 
 3. Run the program and choose the file input option.
 4. Enter the file path when prompted.
